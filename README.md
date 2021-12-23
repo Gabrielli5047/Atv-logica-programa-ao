@@ -1,2 +1,2 @@
-# Atv-logica-programa-ao
+# Atv-logica-programacao
 Atividades modulo 01
